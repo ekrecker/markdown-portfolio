@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*This text is for learning markdown*
+
+_This text is for learning markdown_
+
+**This text is for learning markdown**
+
+__This text is for learning markdown__
+
+_You **can** combine them_
